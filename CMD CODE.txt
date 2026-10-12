@@ -1,0 +1,14 @@
+py -0   (To check the python version)
+
+py -3.11 -m pip install library_name (To install any library Just change the py version)
+
+
+Practical Cmd Code
+
+py -3.13 -m pip install nltk
+
+py -3.13 -m pip install spacy
+
+py -3.13 -m spacy download en_core_web_sm
+
+py -3.13 -m pip install scikit-learn
